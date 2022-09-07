@@ -4,7 +4,7 @@
 
 ## Junior Frontend Developer
 
-##  * Contact information:
+##  Contact information:
    + **Location**: Minsk, Belarus
    + **Phone**: +375 29 134-40-41
    + **E-mail**: nastasiarocks2002@gmail.com
