@@ -1,4 +1,4 @@
-# [rsschool-cv](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/git-markdown.md)
+# [rsschool-cv](https://anastasiamatveichuk.github.io/rsschool-cv/)
 
 # Anastasia Matveichuk
 
