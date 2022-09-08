@@ -1,4 +1,5 @@
-# 
+# [rsschool-cv](https://anastasiamatveichuk.github.io/rsschool-cv/)
+
 # Anastasia Matveichuk
 
 ## Junior Frontend Developer
@@ -7,9 +8,9 @@
    + **Location**: Minsk, Belarus
    + **Phone**: +375 29 134-40-41
    + **E-mail**: nastasiarocks2002@gmail.com
-   + **Telegram**: 
-   + **GitHub**:     
-
+   + **Telegram**: [@anastasia_matvc](https://t.me/anastasia_matvc)
+   + **GitHub**: [anastasiamatveichuk](https://github.com/anastasiamatveichuk) 
+   
 ## About Me
 
 My acquaintance with programming started with entering BSUIR. I studied my preferences concerning different spheres of programming and computer languages. And after the work my choice fell on JS because of it's prospects and possibility of checking the intermediate result.
@@ -39,11 +40,10 @@ function isPangram(string){
 ```
 
 ## Education
-+ **University**: Belarusian National University of Informatics and Radioelectronics
-+ **Courses**: 
-
-
-
+  + **University**: Belarusian National University of Informatics and Radioelectronics
+  + **Courses**: 
+    - JavaScript Manual on [learnjavascript.ru](learnjavascript.ru) 
+    - [Result School](https://lk.result.school/teach/control). 
 
 
 ## Languages
