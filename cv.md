@@ -44,7 +44,7 @@ function isPangram(string){
   + **Courses**: 
     - JavaScript Manual on [learnjavascript.ru](learnjavascript.ru) 
     - [Result School](https://lk.result.school/teach/control). 
-
+![sertificate html   css](https://user-images.githubusercontent.com/110737522/188995288-d530e524-0864-4c95-b00f-cd9a04da37bc.png)
 
 ## Languages
 + English - Upper-intermediate
