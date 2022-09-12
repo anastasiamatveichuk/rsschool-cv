@@ -40,7 +40,7 @@ function isPangram(string){
 ```
 
 ## Education
-  + **University**: Belarusian National University of Informatics and Radioelectronics
+  + **University**: Belarusian State University of Informatics and Radioelectronics
   + **Courses**: 
     - JavaScript Manual on [learnjavascript.ru](learnjavascript.ru) 
     - [Result School](https://lk.result.school/teach/control). 
